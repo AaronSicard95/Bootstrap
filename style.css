@@ -1,0 +1,13 @@
+div{
+    padding: 5px;
+}
+head{
+    background-color: lightblue;
+}
+.headDiv{
+    background-color: lightblue;
+    justify-content: center;
+}
+h1{
+    justify-self: center;
+}
